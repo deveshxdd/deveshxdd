@@ -6,7 +6,7 @@
 ### <div align="center">I'm Devesh , a full-time full-stack freelance developer 👨‍💻 🚀</div>  
   
 
-- Currently working on opensource contribution  
+- 🌱 Currently working on opensource contribution  
   
 
 - 🌱 currently learning blockchain development  
